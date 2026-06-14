@@ -1,5 +1,22 @@
 # 💫 About Me:
-I am Gaurav Patil, an engineering student in my fourth semester at Shri Vile Parle Kelavani Mandal's Institute of Technology. I am passionate about full-stack development, machine learning, and automation. I enjoy building tools that solve real-world problems and exploring new technologies.
+# Gaurav Patil
+**Software Engineering Student | Full-Stack Developer**
+
+I am a dedicated engineering student currently in my fourth semester at Dr. Babasaheb Ambedkar Technological University, specializing in full-stack web development and data analytics. I am passionate about building practical software solutions and leveraging machine learning to address real-world challenges.
+
+### 💼 Professional Experience
+* NA
+
+### 🚀 Featured Project
+* **EcoNudge:** Developed a machine learning prototype submitted to the AMD Slingshot competition, specifically engineered to optimize campus energy consumption and prevent waste.
+
+### 🛠️ Technical Competencies
+* **Languages & Frameworks:** Python 3.x, MERN Stack (MongoDB, Express.js, React, Node.js)
+* **Core Focus:** Full-Stack Architecture, Data Analytics, Microcontrollers (8051)
+* **Tools & Automation:** Git/GitHub, CLI utilities, GitHub Copilot
+
+---
+📫 **Connect with me:** whoisgaurav.me
 
 
 ## 🌐 Socials:
