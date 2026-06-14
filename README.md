@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Gaurav Patil
-**Software Engineering Student | Full-Stack Developer**
+**Pursuing Artificial Intelligence and Machine Learning**
 
 I am a dedicated engineering student currently in my fourth semester at Dr. Babasaheb Ambedkar Technological University, specializing in full-stack web development and data analytics. I am passionate about building practical software solutions and leveraging machine learning to address real-world challenges.
 
